@@ -9,6 +9,7 @@
 <ul>
  <li>HTML;</li>
  <li>CSS;</li>
+ <li>JavaScript;</li>
 </ul>
 <br>
 <p> Projeto com 📱 Responsividade.</p>
